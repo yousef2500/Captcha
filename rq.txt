@@ -1,0 +1,3 @@
+pytelegrambotapi
+opencv-python
+pillow
